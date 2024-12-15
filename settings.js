@@ -3,7 +3,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6282287974350']
+global.owner = ['6282287974350', '85805011774']
 global.name = 'RarkenBotz'
 global.JEDA = 10000  // Ganti Sesuai Keinginan (5000ms = 5 detik) jadi jedanya 5 detik
 global.pairing = true // true / false ; true = menggunakan pairing code &  false = menggunakan qr code
